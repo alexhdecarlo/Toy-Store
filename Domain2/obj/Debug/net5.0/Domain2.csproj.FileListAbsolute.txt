@@ -1,0 +1,16 @@
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\bin\Debug\net5.0\Domain2.exe
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\bin\Debug\net5.0\Domain2.deps.json
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\bin\Debug\net5.0\Domain2.runtimeconfig.json
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\bin\Debug\net5.0\Domain2.runtimeconfig.dev.json
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\bin\Debug\net5.0\Domain2.dll
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\bin\Debug\net5.0\ref\Domain2.dll
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\bin\Debug\net5.0\Domain2.pdb
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\obj\Debug\net5.0\Domain2.csproj.AssemblyReference.cache
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\obj\Debug\net5.0\Domain2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\obj\Debug\net5.0\Domain2.AssemblyInfoInputs.cache
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\obj\Debug\net5.0\Domain2.AssemblyInfo.cs
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\obj\Debug\net5.0\Domain2.csproj.CoreCompileInputs.cache
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\obj\Debug\net5.0\Domain2.dll
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\obj\Debug\net5.0\ref\Domain2.dll
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\obj\Debug\net5.0\Domain2.pdb
+C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain2\obj\Debug\net5.0\Domain2.genruntimeconfig.cache
