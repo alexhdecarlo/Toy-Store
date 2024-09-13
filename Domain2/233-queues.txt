@@ -7,9 +7,10 @@ namespace example
     {
     
   	Queue<string> orderNumbers = new Queue<string>();
-	orderNumbers.Enqueue("11111");
-	orderNumbers.Enqueue("11112");
-	orderNumbers.Enqueue("11113");
+	orderNumbers.Enqueue("Cat");
+	orderNumbers.Enqueue("Dog");
+	orderNumbers.Enqueue("Fish");
+	orderNumbers.Enqueue("Lizard");
 	//orderNumbers.Dequeue();
 	
 	foreach (string orderNumber in orderNumbers)
